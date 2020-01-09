@@ -13,7 +13,7 @@
         <dist:fusing dist:include="true" />
     </dist:module>
 
-    <application android:allowBackup="false">
+    <application>
         <activity android:name=".OnDemandActivity" />
     </application>
 
