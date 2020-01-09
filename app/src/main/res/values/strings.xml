@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Dynamic Feature Example</string>
+    <string name="title_ondemand">On Demand</string>
 </resources>
